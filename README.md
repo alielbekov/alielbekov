@@ -8,8 +8,7 @@
 
 <!-- Badge generator https://github.com/developStorm/simple-badges  -->
 <div style="display: flex; align-items: flex-start;">
-  <div>
-
+<div>
 ### Tech Stack: 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square)
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=fff&style=flat-square)
@@ -30,9 +29,8 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=fff&style=flat-square)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=fff&style=flat-square)
 ![Bots](https://img.shields.io/badge/Bots-00B48A?logo=robotframework&logoColor=fff&style=flat-square)
-
-  </div>
-  <div style="margin-left: auto;">
+</div>
+ <div style="margin-left: auto;">
      <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=eldorbek2001&layout=compact&hide=css,scss,ActionScript,Makefile&langs_count=10&theme=ayu-mirage&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=simple-badges" width="40%" alt="Ali's GitHub stats">
     </a>
