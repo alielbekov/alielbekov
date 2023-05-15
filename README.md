@@ -44,10 +44,10 @@
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square)
 ![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff&style=flat-square#956f2e0)
 
-#### Watching
+<!-- #### Watching
 
 ![Let's build GPT: from scratch, in code, spelled out.](https://img.icons8.com/color/48/000000/youtube-play.png)Let's build GPT: from scratch, in code, spelled out.
-
+ -->
 
 <p align='right'>
   <i>
