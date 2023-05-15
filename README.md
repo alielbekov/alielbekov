@@ -1,12 +1,15 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=eldorbek2001&layout=compact&hide=css,scss,ActionScript,Makefile&langs_count=10&theme=ayu-mirage&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=simple-badges"  alt="Ali's GitHub stats">
-<img align='right' src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=eldorbek2001&layout=compact&hide=css,scss,ActionScript,Makefile&langs_count=8&theme=ayu-mirage&hide_border=true&custom_title=Languages%20Used%20(By%20File%20Size)&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=simple-badges" alt="Languages Used (By File Size)">
-
 
 
 ### Hi there 👋 I'm ...
 👨‍🎓 A computer science undergraduate student  
 🔎 Focusing on cybersecurity and privacy  
 ❤️ Love software engineering and technology
+
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=eldorbek2001&layout=compact&hide=css,scss,ActionScript,Makefile&langs_count=10&theme=ayu-mirage&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=simple-badges"  alt="Ali's GitHub stats">
+<img align='right' src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=eldorbek2001&layout=compact&hide=css,scss,ActionScript,Makefile&langs_count=8&theme=ayu-mirage&hide_border=true&custom_title=Languages%20Used%20(By%20File%20Size)&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=simple-badges" alt="Languages Used (By File Size)">
+
+
 
 <!-- Badge generator https://github.com/developStorm/simple-badges  -->
 
