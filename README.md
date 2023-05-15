@@ -13,8 +13,10 @@
 <!-- Badge generator https://github.com/developStorm/simple-badges  -->
 
 ### Tech StackPython: 
-![Python](https://img.shields.io/badge/3776AB?logo=python&logoColor=fff&style=flat-square)
+Certainly! Here are the strings generated for each technology in the tech stack:
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square)
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=fff&style=flat-square)
 
 
 
