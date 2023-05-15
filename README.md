@@ -42,10 +42,7 @@
 #### Learning
 
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat-square#956f2e0)
-
-
-<!-- ![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff&style=flat-square#956f2e0)  -->
+![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff&style=flat-square#956f2e0)
 
 
 
