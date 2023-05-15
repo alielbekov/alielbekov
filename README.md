@@ -1,9 +1,9 @@
 
 
-### Hi there 👋 I'm ...
-👨‍🎓 A computer science undergraduate student  
-🔎 Focusing on cybersecurity and privacy  
-❤️ Love software engineering and technology
+### Hi there 👋 I'm Ali,
+👨‍🎓 A computer science undergraduate student at University of Arizona
+🔎 Focusing on Web Development and Teaching  
+❤️ Love building applications 
 
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=eldorbek2001&layout=compact&hide=css,scss,ActionScript,Makefile&langs_count=10&theme=ayu-mirage&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=simple-badges"  alt="Ali's GitHub stats">
