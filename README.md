@@ -9,7 +9,8 @@
 <!-- Badge generator https://github.com/developStorm/simple-badges  -->
 <div style="display: flex; align-items: flex-start;">
 <div>
-### Tech Stack: 
+### Tech Stack:
+  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square)
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=fff&style=flat-square)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=fff&style=flat-square)
