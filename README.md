@@ -12,26 +12,8 @@
 
 <!-- Badge generator https://github.com/developStorm/simple-badges  -->
 
-### Tech StackPython: ![Python](https://img.shields.io/badge/3776AB?logo=python&logoColor=fff&style=flat-square)
-Java: ![Java](https://img.shields.io/badge/007396?logo=openjdk&logoColor=fff&style=flat-square)
-HTML: ![HTML](https://img.shields.io/badge/E34F26?logo=html5&logoColor=fff&style=flat-square)
-CSS: ![CSS](https://img.shields.io/badge/1572B6?logo=css3&logoColor=fff&style=flat-square)
-JavaScript: ![JavaScript](https://img.shields.io/badge/F7DF1E?logo=javascript&logoColor=fff&style=flat-square)
-.NET: ![.NET](https://img.shields.io/badge/512BD4?logo=.net&logoColor=fff&style=flat-square)
-Node.js: ![Node.js](https://img.shields.io/badge/393?logo=nodedotjs&logoColor=fff&style=flat-square)
-Express.js: ![Express.js](https://img.shields.io/badge/000?logo=express&logoColor=fff&style=flat-square)
-React.js: ![React.js](https://img.shields.io/badge/61DAFB?logo=react&logoColor=fff&style=flat-square)
-MongoDB: ![MongoDB](https://img.shields.io/badge/47A248?logo=mongodb&logoColor=fff&style=flat-square)
-SQL: ![SQL](https://img.shields.io/badge/4479A1?logo=postgresql&logoColor=fff&style=flat-square)
-C#: ![C#](https://img.shields.io/badge/239120?logo=csharp&logoColor=fff&style=flat-square)
-Blazor: ![Blazor](https://img.shields.io/badge/512BD4?logo=.net&logoColor=fff&style=flat-square)
-NPM: ![NPM](https://img.shields.io/badge/CB3837?logo=npm&logoColor=fff&style=flat-square)
-JavaFX: ![JavaFX](https://img.shields.io/badge/007396?logo=java&logoColor=fff&style=flat-square)
-Telerik: ![Telerik](https://img.shields.io/badge/8CBF3F?logo=telerik&logoColor=fff&style=flat-square)
-AWS: ![AWS](https://img.shields.io/badge/232F3E?logo=amazonaws&logoColor=fff&style=flat-square)
-Azure: ![Azure](https://img.shields.io/badge/0089D6?logo=microsoftazure&logoColor=fff&style=flat-square)
-Pandas: ![Pandas](https://img.shields.io/badge/150458?logo=pandas&logoColor=fff&style=flat-square)
-Bots: ![Bots](https://img.shields.io/badge/00B48A?logo=robotframework&logoColor=fff&style=flat-square)
+### Tech StackPython: 
+![Python](https://img.shields.io/badge/3776AB?logo=python&logoColor=fff&style=flat-square)
 
 
 
