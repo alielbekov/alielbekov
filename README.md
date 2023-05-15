@@ -12,9 +12,7 @@
 
 <!-- Badge generator https://github.com/developStorm/simple-badges  -->
 
-### Tech StackPython: 
-Certainly! Here are the strings generated for each technology in the tech stack:
-
+### Tech Stack: 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square)
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=fff&style=flat-square)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=fff&style=flat-square)
