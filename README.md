@@ -2,7 +2,7 @@
 
 ### Hi there 👋 I'm Ali,
 👨‍🎓 A computer science undergraduate student at University of Arizona <br>
-🔎 Focusing on Web Development, Mobile Development, and Teaching  
+🔎 Focusing on Web Development and Teaching  
 ❤️ Love building applications  
 ⚽ Want to bring social good to the community
 
