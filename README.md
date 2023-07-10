@@ -55,14 +55,6 @@ https://neetcode.io/roadmap
 ![Let's build GPT: from scratch, in code, spelled out.](https://img.icons8.com/color/48/000000/youtube-play.png)Let's build GPT: from scratch, in code, spelled out.
  -->
 
-<p align='right'>
-  <i>
-    <sub>
-      *Statistics may include data from unpublished course or research-related projects.
-    </sub>
-  </i>
-</p>
-
  <div style="margin-left: auto;">
   </div>
 </div>
