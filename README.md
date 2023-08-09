@@ -50,6 +50,9 @@
 
 #### Soon finishing
 https://neetcode.io/roadmap
+
+#### Working on
+https://github.com/alielbekov/LyceumAlumniStatic
 <!-- #### Watching
 
 ![Let's build GPT: from scratch, in code, spelled out.](https://img.icons8.com/color/48/000000/youtube-play.png)Let's build GPT: from scratch, in code, spelled out.
