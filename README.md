@@ -25,6 +25,7 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000?logo=express&logoColor=fff&style=flat-square)
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=fff&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat-square)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?logo=d3.js&logoColor=fff&style=flat-square)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=fff&style=flat-square#956f2e0)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=fff&style=flat-square)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=fff&style=flat-square)
@@ -38,12 +39,6 @@
 
 <!-- ![WebAuthn](https://img.shields.io/badge/WebAuthn-3423A6?logo=webauthn&logoColor=fff&style=flat-square#956f2e0) -->
 <!-- ![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?logo=minecraft&logoColor=fff&style=flat-square#956f2e0)  -->
-
-
-#### Learning
-
-![D3.js](https://img.shields.io/badge/D3.js-F9A03C?logo=d3.js&logoColor=fff&style=flat-square)
-visit: http://137.184.74.25:8080/
 
 #### Soon finishing
 https://neetcode.io/roadmap
