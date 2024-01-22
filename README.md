@@ -7,7 +7,7 @@
 ⚽ Want to bring social good to the community
 
 
-<!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=alielbekov&layout=compact&hide=css,scss,ActionScript,Makefile&langs_count=10&theme=ayu-mirage&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=simple-badges"  alt="Ali's GitHub stats"> -->
+<!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=alielbekov&layout=compact&hide=scss,ActionScript,Makefile&langs_count=10&theme=ayu-mirage&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=simple-badges"  alt="Ali's GitHub stats"> -->
 <img align='right' src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=alielbekov&layout=compact&hide=css,html,scss,ActionScript,Makefile&langs_count=8&theme=ayu-mirage&hide_border=true&custom_title=Languages%20Used%20(By%20File%20Size)&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=simple-badges" alt="Languages Used (By File Size)">
 
 
