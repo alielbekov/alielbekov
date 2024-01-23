@@ -53,5 +53,4 @@ Online Mock Interviewer
  <div style="margin-left: auto;">
   </div>
 </div>
-![Profile view](https://komarev.com/ghpvc/?username=alielbekov&color=green)  
 
