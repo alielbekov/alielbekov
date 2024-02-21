@@ -40,9 +40,6 @@
 <!-- ![WebAuthn](https://img.shields.io/badge/WebAuthn-3423A6?logo=webauthn&logoColor=fff&style=flat-square#956f2e0) -->
 <!-- ![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?logo=minecraft&logoColor=fff&style=flat-square#956f2e0)  -->
 
-#### Soon finishing
-https://neetcode.io/roadmap
-
 #### Working on
 (Soon)
 <!-- #### Watching
