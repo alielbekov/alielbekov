@@ -40,8 +40,8 @@
 <!-- ![WebAuthn](https://img.shields.io/badge/WebAuthn-3423A6?logo=webauthn&logoColor=fff&style=flat-square#956f2e0) -->
 <!-- ![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?logo=minecraft&logoColor=fff&style=flat-square#956f2e0)  -->
 
-#### Working on
-https://interviewprep.ing
+#### Currently building
+## https://interviewprep.ing
 <!-- #### Watching
 
 ![Let's build GPT: from scratch, in code, spelled out.](https://img.icons8.com/color/48/000000/youtube-play.png)Let's build GPT: from scratch, in code, spelled out.
