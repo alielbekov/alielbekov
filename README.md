@@ -1,1 +1,1 @@
-## building https://interviewprep.ing && https://universalban.com && https://alumni.langapex.org
+## building https://universalban.com && https://alumni.langapex.org
